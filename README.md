@@ -1,2 +1,2 @@
-# HttpServer
-Http server used private encryption
+# HttpsServer
+Https server used private encryption
